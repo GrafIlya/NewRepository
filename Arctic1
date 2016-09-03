@@ -1,3 +1,72 @@
 <html>
 <title>Практическая №1</title>
+<style>
+
+   .text1 {
+    background: #D9FFAD;
+	color: red;
+   }
+    .text2 {
+	background: #000;
+    color: white;
+   }
+    .text3 {
+	background: #FDA;
+    color: blue;
+   }
+
+   .img1
+		{
+        background-image: url('http://photostart.ru/images/5/001272.jpg');
+        background-repeat: no-repeat;
+		color: pink;
+      }
+   .img2
+		{
+        background-image: url('http://s017.radikal.ru/i419/1609/f7/f2eb5941334e.png');
+        background-repeat: repeat-y;
+		color: pink;
+      }
+   .img3
+		{
+        background-image: url('http://s017.radikal.ru/i419/1609/f7/f2eb5941334e.png');
+        background-repeat: repeat;
+		color: pink;
+      }
+</style>
+
+<!--Можно и так цвет текста пихнуть <font color="white";> -->
+
+<H3>Задание 1</H3>
+<p class="text1">Первый текст первого задания.</p>
+<br>
+<p class="text2">Второй текст первого задания.</p>
+<br>
+<p class="text3">И НАКОНЕЕЕЕЕЕЕЦ!!!! Третий текст первого задания.</p>
+<br>
+
+<H3>Задание 2</H3>
+
+<p class="img1">Текст 4. Много текста 4. Очень много текста 4. Надоело. Суббота. Хочу гулять, а приходится писать бессмысленный текст 4.</p>
+<br>
+<p class="img2">
+Текст 5
+<br>
+Опять Текст 5
+<br>
+А нет, снова Текст 5
+<br>
+И снова, Текст 5
+<br>
+ Почти закончил. Текст 5
+</p>
+<br>
+<p class="img3">
+Текст 6
+<br>
+Скопированный Текст 6
+<br>
+И этот текст скопировал Текст 6
+<br>
+</p>
 </html>
