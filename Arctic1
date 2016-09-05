@@ -19,19 +19,24 @@
 		{
         background-image: url('http://photostart.ru/images/5/001272.jpg');
         background-repeat: no-repeat;
-		color: pink;
+		background-position: center; 
+		background-color: green;
+		color: white;
       }
    .img2
 		{
-        background-image: url('http://s017.radikal.ru/i419/1609/f7/f2eb5941334e.png');
+        background-image: url('http://s020.radikal.ru/i721/1609/e4/858e6264d0f8.png');
         background-repeat: repeat-y;
-		color: pink;
+		background-position: center; 
+		background-color: grey;
+		color: white;
       }
    .img3
 		{
-        background-image: url('http://s017.radikal.ru/i419/1609/f7/f2eb5941334e.png');
+        background-image: url('http://s020.radikal.ru/i721/1609/e4/858e6264d0f8.png');
         background-repeat: repeat;
-		color: pink;
+		background-position: center; 
+		color: white;
       }
 </style>
 
