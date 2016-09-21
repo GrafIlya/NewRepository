@@ -1,0 +1,727 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ .Palazzo_Di_Sole {
+  font-size: 80px;
+  font-family: "SavoyeLetPlain";
+  color: rgb(249, 249, 249);
+  line-height: 0.225;
+  text-align: left;
+  text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 450px;
+  top: 39.5px;
+  z-index: 84;
+}
+
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1200px;
+	 height: 1195px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1200px;
+	 height: 1195px;
+	 z-index:1;
+} 
+
+ #grain 
+{ 
+	 left: 0px; 
+	 top: -250px; 
+	 position: absolute; 
+	 width: 2000px;
+	 height: 3000px;
+	 z-index:2;
+} 
+
+ #chessboard 
+{ 
+	 left: 0px; 
+	 top: -250px; 
+	 position: absolute; 
+	 width: 1199px;
+	 height: 3199px;
+	 z-index:3;
+} 
+
+ #lightlines 
+{ 
+	 left: 0px; 
+	 top: -250px; 
+	 position: absolute; 
+	 width: 2000px;
+	 height: 2900px;
+	 z-index:4;
+} 
+
+ #highlight 
+{ 
+	 left: 157px; 
+	 top: -432px; 
+	 position: absolute; 
+	 width: 1000px;
+	 height: 519px;
+	 z-index:5;
+} 
+
+ #blackbackground 
+{ 
+	 left: 145px; 
+	 top: 814px; 
+	 position: absolute; 
+	 width: 910px;
+	 height: 286px;
+	 z-index:6;
+} 
+
+ #topshadow 
+{ 
+	 left: 145px; 
+	 top: 814px; 
+	 position: absolute; 
+	 width: 910px;
+	 height: 9px;
+	 z-index:7;
+} 
+
+ #highlight_0 
+{ 
+	 left: 205px; 
+	 top: 629px; 
+	 position: absolute; 
+	 width: 810px;
+	 height: 308px;
+	 z-index:8;
+} 
+
+ #2010PalazzoDiSole 
+{ 
+	 left: 166px; 
+	 top: 1120px; 
+	 position: absolute; 
+	 width: 121px;
+	 height: 10px;
+	 z-index:9;
+} 
+
+ #TermsConditionsCopyr 
+{ 
+	 left: 806px; 
+	 top: 1120px; 
+	 position: absolute; 
+	 width: 228px;
+	 height: 12px;
+	 z-index:10;
+} 
+
+ #ContactUs 
+{ 
+	 left: 165px; 
+	 top: 835px; 
+	 position: absolute; 
+	 width: 80px;
+	 height: 13px;
+	 z-index:11;
+} 
+
+ #headingbackground 
+{ 
+	 left: 165px; 
+	 top: 866px; 
+	 position: absolute; 
+	 width: 263px;
+	 height: 2px;
+	 z-index:12;
+} 
+
+ #fields 
+{ 
+	 left: 248px; 
+	 top: 888px; 
+	 position: absolute; 
+	 width: 180px;
+	 height: 147px;
+	 z-index:13;
+} 
+
+ #button 
+{ 
+	 left: 367px; 
+	 top: 1040px; 
+	 position: absolute; 
+	 width: 61px;
+	 height: 26px;
+	 z-index:14;
+} 
+
+ #YournameEmailQuery 
+{ 
+	 left: 168px; 
+	 top: 895px; 
+	 position: absolute; 
+	 width: 60px;
+	 height: 72px;
+	 z-index:15;
+} 
+
+ #arrow 
+{ 
+	 left: 412px; 
+	 top: 1048px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 10px;
+	 z-index:16;
+} 
+
+ #Send 
+{ 
+	 left: 377px; 
+	 top: 1048px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 10px;
+	 z-index:17;
+} 
+
+ #envelope 
+{ 
+	 left: 360px; 
+	 top: 833px; 
+	 position: absolute; 
+	 width: 48px;
+	 height: 33px;
+	 z-index:18;
+} 
+
+ #LatestNews 
+{ 
+	 left: 468px; 
+	 top: 835px; 
+	 position: absolute; 
+	 width: 87px;
+	 height: 13px;
+	 z-index:19;
+} 
+
+ #rssicon 
+{ 
+	 left: 664px; 
+	 top: 832px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 34px;
+	 z-index:20;
+} 
+
+ #Suspendisseeulacusod 
+{ 
+	 left: 506px; 
+	 top: 887px; 
+	 position: absolute; 
+	 width: 198px;
+	 height: 156px;
+	 z-index:21;
+} 
+
+ #headingbackground_0 
+{ 
+	 left: 467px; 
+	 top: 866px; 
+	 position: absolute; 
+	 width: 263px;
+	 height: 2px;
+	 z-index:22;
+} 
+
+ #datebackground 
+{ 
+	 left: 467px; 
+	 top: 887px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 36px;
+	 z-index:23;
+} 
+
+ #APR14 
+{ 
+	 left: 472px; 
+	 top: 890px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 29px;
+	 z-index:24;
+} 
+
+ #datebackground_0 
+{ 
+	 left: 467px; 
+	 top: 976px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 36px;
+	 z-index:25;
+} 
+
+ #APR9 
+{ 
+	 left: 472px; 
+	 top: 979px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 30px;
+	 z-index:26;
+} 
+
+ #Testimonials 
+{ 
+	 left: 771px; 
+	 top: 835px; 
+	 position: absolute; 
+	 width: 92px;
+	 height: 13px;
+	 z-index:27;
+} 
+
+ #staricon 
+{ 
+	 left: 977px; 
+	 top: 834px; 
+	 position: absolute; 
+	 width: 48px;
+	 height: 32px;
+	 z-index:28;
+} 
+
+ #34FriendsfromDublinr 
+{ 
+	 left: 771px; 
+	 top: 887px; 
+	 position: absolute; 
+	 width: 256px;
+	 height: 157px;
+	 z-index:29;
+} 
+
+ #headingbackground_1 
+{ 
+	 left: 772px; 
+	 top: 866px; 
+	 position: absolute; 
+	 width: 263px;
+	 height: 2px;
+	 z-index:30;
+} 
+
+ #whitebackground 
+{ 
+	 left: 145px; 
+	 top: 568px; 
+	 position: absolute; 
+	 width: 910px;
+	 height: 246px;
+	 z-index:31;
+} 
+
+ #separators 
+{ 
+	 left: 371px; 
+	 top: 578px; 
+	 position: absolute; 
+	 width: 457px;
+	 height: 226px;
+	 z-index:32;
+} 
+
+ #button_0 
+{ 
+	 left: 265px; 
+	 top: 774px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 20px;
+	 z-index:33;
+} 
+
+ #arrow_0 
+{ 
+	 left: 335px; 
+	 top: 779px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 10px;
+	 z-index:34;
+} 
+
+ #ReadMore 
+{ 
+	 left: 275px; 
+	 top: 780px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 9px;
+	 z-index:35;
+} 
+
+ #Utloremantehendrerit 
+{ 
+	 left: 164px; 
+	 top: 660px; 
+	 position: absolute; 
+	 width: 172px;
+	 height: 102px;
+	 z-index:36;
+} 
+
+ #AboutUs 
+{ 
+	 left: 233px; 
+	 top: 603px; 
+	 position: absolute; 
+	 width: 75px;
+	 height: 22px;
+	 z-index:37;
+} 
+
+ #coffee 
+{ 
+	 left: 162px; 
+	 top: 587px; 
+	 position: absolute; 
+	 width: 67px;
+	 height: 60px;
+	 z-index:38;
+} 
+
+ #button_1 
+{ 
+	 left: 495px; 
+	 top: 774px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 20px;
+	 z-index:39;
+} 
+
+ #arrow_1 
+{ 
+	 left: 565px; 
+	 top: 779px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 10px;
+	 z-index:40;
+} 
+
+ #ReadMore_0 
+{ 
+	 left: 505px; 
+	 top: 780px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 9px;
+	 z-index:41;
+} 
+
+ #Donecpretiumporttito 
+{ 
+	 left: 391px; 
+	 top: 660px; 
+	 position: absolute; 
+	 width: 176px;
+	 height: 99px;
+	 z-index:42;
+} 
+
+ #SpecialOffer 
+{ 
+	 left: 452px; 
+	 top: 600px; 
+	 position: absolute; 
+	 width: 94px;
+	 height: 27px;
+	 z-index:43;
+} 
+
+ #glasses 
+{ 
+	 left: 392px; 
+	 top: 584px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 60px;
+	 z-index:44;
+} 
+
+ #button_2 
+{ 
+	 left: 721px; 
+	 top: 774px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 20px;
+	 z-index:45;
+} 
+
+ #arrow_2 
+{ 
+	 left: 791px; 
+	 top: 779px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 10px;
+	 z-index:46;
+} 
+
+ #ReadMore_1 
+{ 
+	 left: 731px; 
+	 top: 780px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 9px;
+	 z-index:47;
+} 
+
+ #Pellentesqueplacerat 
+{ 
+	 left: 621px; 
+	 top: 660px; 
+	 position: absolute; 
+	 width: 184px;
+	 height: 99px;
+	 z-index:48;
+} 
+
+ #OurLocation 
+{ 
+	 left: 673px; 
+	 top: 601px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 21px;
+	 z-index:49;
+} 
+
+ #pin 
+{ 
+	 left: 622px; 
+	 top: 591px; 
+	 position: absolute; 
+	 width: 46px;
+	 height: 51px;
+	 z-index:50;
+} 
+
+ #button_3 
+{ 
+	 left: 949px; 
+	 top: 774px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 20px;
+	 z-index:51;
+} 
+
+ #arrow_3 
+{ 
+	 left: 1019px; 
+	 top: 779px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 10px;
+	 z-index:52;
+} 
+
+ #ReadMore_2 
+{ 
+	 left: 959px; 
+	 top: 780px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 9px;
+	 z-index:53;
+} 
+
+ #FusceaestloremUtsemp 
+{ 
+	 left: 847px; 
+	 top: 660px; 
+	 position: absolute; 
+	 width: 185px;
+	 height: 99px;
+	 z-index:54;
+} 
+
+ #calendar 
+{ 
+	 left: 848px; 
+	 top: 588px; 
+	 position: absolute; 
+	 width: 48px;
+	 height: 51px;
+	 z-index:55;
+} 
+
+ #BookaTable 
+{ 
+	 left: 908px; 
+	 top: 600px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 22px;
+	 z-index:56;
+} 
+
+ #photoshape 
+{ 
+	 left: 159px; 
+	 top: 183px; 
+	 position: absolute; 
+	 width: 882px;
+	 height: 365px;
+	 z-index:57;
+} 
+
+ #photoborder 
+{ 
+	 left: 125px; 
+	 top: 163px; 
+	 position: absolute; 
+	 width: 950px;
+	 height: 400px;
+	 z-index:58;
+} 
+
+ #arrows 
+{ 
+	 left: 135px; 
+	 top: 350px; 
+	 position: absolute; 
+	 width: 930px;
+	 height: 14px;
+	 z-index:59;
+} 
+
+ #FancyItalianRestaura 
+{ 
+	 left: 503px; 
+	 top: 91px; 
+	 position: absolute; 
+	 width: 196px;
+	 height: 12px;
+	 z-index:60;
+} 
+
+ #PalazzoDiSole 
+{ 
+	 left: 450px; 
+	 top: 19px; 
+	 position: absolute; 
+	 width: 317px;
+	 height: 58px;
+	 z-index:61;
+} 
+
+ #star1 
+{ 
+	 left: 432px; 
+	 top: -3px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 59px;
+	 z-index:62;
+} 
+
+ #star2 
+{ 
+	 left: 656px; 
+	 top: 41px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 59px;
+	 z-index:63;
+} 
+
+ #navsides 
+{ 
+	 left: 45px; 
+	 top: 144px; 
+	 position: absolute; 
+	 width: 1110px;
+	 height: 59px;
+	 z-index:64;
+} 
+
+ #redbackground 
+{ 
+	 left: 135px; 
+	 top: 123px; 
+	 position: absolute; 
+	 width: 930px;
+	 height: 60px;
+	 z-index:65;
+} 
+
+ #ribbonback 
+{ 
+	 left: 136px; 
+	 top: 183px; 
+	 position: absolute; 
+	 width: 928px;
+	 height: 9px;
+	 z-index:66;
+} 
+
+ #HomeRestaurant 
+{ 
+	 left: 165px; 
+	 top: 148px; 
+	 position: absolute; 
+	 z-index:67;
+} 
+
+.petri
+{
+	width: 120%;
+	margin: 0px -65px;	
+}
+
+.petri li
+{
+	display: block;
+	float: left;
+	height: 40px;
+	color: #FFF;
+	font-size: 16px;
+	padding: 0px 10px 0px 20px;
+	text-transform: uppercase;
+	cursor: pointer;
+}
+
+ #separators_0 
+{ 
+	 left: 225px; 
+	 top: 123px; 
+	 position: absolute; 
+	 width: 734px;
+	 height: 60px;
+	 z-index:68;
+} 
