@@ -1,0 +1,107 @@
+body
+{
+   padding: 0;
+	margin: 0;
+}
+
+.spisok
+{
+    max-width: 1860px;
+    margin: 0 auto;
+}
+
+.noom1
+{
+    text-align: center;
+    margin-top: 100px;
+}
+
+a 
+{ 
+    text-decoration: none;
+    color: black;
+}
+ 
+p 
+{
+    text-indent: 50px;
+}
+
+h1
+{
+  text-align: center;
+}
+
+h3
+{
+	text-align: center;
+	margin-top:-40px;
+	font-size:25px;
+}
+
+.image
+{
+    text-align: center;
+}
+
+.perexod
+{
+    height: 100%;
+    width: 100%;    
+}
+
+.perexod h1
+{
+    font-size: 60px;
+}
+
+.telo
+{
+    height:  960px;
+    width: 1200px;
+    font-size: 30px;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+.menu li 
+{
+	font-size: 50px;
+	height: 50px;
+	text-align: center;
+	margin-left:-85px;
+	margin-top: 35px;
+}
+
+.menu ul
+{
+    margin-top: -850px;
+	float:center;
+    margin-left: 270px;
+    width: 750px;
+}
+
+.menu a:hover 
+{
+	color: #8B0000;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.glmenu
+{
+ margin-top: -850px; 
+ margin-left: 10px;
+}
+
+.cpisok li
+{
+    font-size: 30px;
+	margin-top: 30px;
+}
+
+p img
+{
+	margin-left:75px;
+	float:center;
+}
