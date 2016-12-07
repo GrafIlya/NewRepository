@@ -1,0 +1,38 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+table
+{
+    border-width: 1px;
+    border-color: #99ff99;
+    color: #49423d;
+    font-size: 11px;
+}
+td
+{
+    border-width: 0px;
+}
+.head
+{
+    text-align: center;
+    border-width: 1px;
+    border-color: green;
+    background-color: green;
+    color: white;
+    font-size: 16px;
+}
+.color
+{
+    background-color: darkgray;
+    border-color: darkgray;
+}
+img
+{
+    border: 1px solid black;
+}
+p
+{
+    margin: 10px;
+}
