@@ -1,0 +1,159 @@
+*
+{
+margin:0;
+padding:0;
+}
+
+body 
+{ 
+font: .8em Georgia, "Times New Roman", Serif; 
+background-image: url(../image/fon.png); background-repeat:repeat;
+color: #777; 
+}
+
+a 
+{ 
+color: #D40000;
+text-decoration: none; 
+}
+	
+a:hover 
+{ 
+color: #8F0000; 
+}
+	
+p 
+{ 
+line-height: 1.7em;
+margin: 0 0 15px; 
+}
+ 
+.x 
+{ 
+clear: both; 
+}
+
+h1 
+{ 
+float: center; 
+color:#000;
+font-size: 3em; 
+font-weight: normal; 
+font-style: italic; 
+padding: 0 0 25px 10px; 
+margin: 0 0 10px; 
+}
+
+h2 
+{ 
+text-align: center;
+color:#000;
+margin-top:175px;
+font-weight: normal; 
+font-size: 2.6em; 
+padding: 0 0 10px; 
+ 
+}
+
+h3 
+{ 
+font-size: 1.7em; 
+font-weight: normal; 
+margin: 0 0 20px; 
+}
+
+h3 a 
+{ 
+color: #222; 
+}
+	
+#content 
+{ 
+width: 960px;
+margin: 40px auto; 
+}
+
+#menu 
+{ 
+float: left; 
+margin: 10px 10px 0 0; 
+}
+
+#menu li 
+{ 
+float: left; 
+display: inline; 
+list-style: none; 
+font-size:25px;
+}
+#menu li a 
+{ 
+float: left;
+margin: 0 0 0 20px; 
+color: #000; 
+}
+
+#menu li a:hover 
+{ 
+color: #000; 
+}
+
+.post 
+{ 
+clear: both; 
+padding: 30px 10px; 
+border-top: 2px solid #7B8476; 
+border-bottom: 2px solid #7B8476; 
+margin: 0 0 40px; 
+}
+
+.details 
+{ 
+float: left; 
+width: 250px; 
+}
+
+.body 
+{ 
+float: right; 
+width: 618px; 
+padding: 0 0 0 30px; 
+border-left: 2px solid #7B8476; 
+}
+	
+.body p
+{
+	text-align:center;
+	font-size:15px;
+	color:#000;
+}
+
+
+
+.image
+{
+    text-align: center;
+}
+	
+.col 
+{ 
+width: 290px; 
+margin: 0 40px 30px 0; 
+float: left; 
+font-size: .9em; 
+color: #000;
+}
+
+.last 
+{ 
+margin-right: 0; 
+}
+		
+#footer 
+{ 
+clear: both; 
+border-top: 2px solid #7B8476; 
+padding: 10px 0; 
+font-size: .9em; 
+color: #000000; 
+}
